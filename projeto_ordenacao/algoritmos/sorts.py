@@ -79,7 +79,8 @@ def merge_sort(arr):
     
     return arr, comparacoes, trocas
 
-
+"""precisei fazer um ajuste no pivot, agora usa 
+pivot do meio (evita pior caso com dados ordenados)"""
 def quick_sort(arr):
     arr = arr[:]
     comparacoes = 0
@@ -87,6 +88,10 @@ def quick_sort(arr):
     
     def partition(a, low, high):
         nonlocal comparacoes, trocas
+        
+        mid = (low + high) // 2
+        a[mid], a[high] = a[high], a[mid]
+        
         pivot = a[high]
         i = low - 1
         
