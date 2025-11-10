@@ -1,0 +1,156 @@
+#Rodada 1
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        4.178401     0.0153         499,500         499,329
+Selection Sort     1.386093     0.0153         499,500         552
+Merge Sort         0.068281     0.0281         4,932           10,000
+Quick Sort         0.050271     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.050271s
+   2º - Merge Sort: 0.068281s
+   3º - Selection Sort: 1.386093s
+   4º - Bubble Sort: 4.178401s
+
+#Rodada 2
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        4.133966     0.0153         499,500         499,329
+Selection Sort     1.616194     0.0153         499,500         552
+Merge Sort         0.098019     0.0281         4,932           10,000
+Quick Sort         0.063195     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.063195s
+   2º - Merge Sort: 0.098019s
+   3º - Selection Sort: 1.616194s
+   4º - Bubble Sort: 4.133966s
+
+
+#Rodada 3
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        4.997518     0.0153         499,500         499,329
+Selection Sort     1.845180     0.0153         499,500         552
+Merge Sort         0.094781     0.0281         4,932           10,000
+Quick Sort         0.054784     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.054784s
+   2º - Merge Sort: 0.094781s
+   3º - Selection Sort: 1.845180s
+   4º - Bubble Sort: 4.997518s
+
+
+#Rodada 4
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        5.106920     0.0153         499,500         499,329
+Selection Sort     1.610440     0.0153         499,500         552
+Merge Sort         0.098789     0.0281         4,932           10,000
+Quick Sort         0.076971     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.076971s
+   2º - Merge Sort: 0.098789s
+   3º - Selection Sort: 1.610440s
+   4º - Bubble Sort: 5.106920s
+
+#Rodada 5
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        3.668452     0.0153         499,500         499,329
+Selection Sort     1.583950     0.0153         499,500         552
+Merge Sort         0.087833     0.0281         4,932           10,000
+Quick Sort         0.069344     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.069344s
+   2º - Merge Sort: 0.087833s
+   3º - Selection Sort: 1.583950s
+   4º - Bubble Sort: 3.668452s
+
+#Rodada 6
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        3.301653     0.0153         499,500         499,329
+Selection Sort     1.364360     0.0153         499,500         552
+Merge Sort         0.072372     0.0281         4,932           10,000
+Quick Sort         0.045634     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.045634s
+   2º - Merge Sort: 0.072372s
+   3º - Selection Sort: 1.364360s
+   4º - Bubble Sort: 3.301653s
+
+
+#Rodada 7
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        3.604043     0.0153         499,500         499,329
+Selection Sort     1.435663     0.0153         499,500         552
+Merge Sort         0.070517     0.0281         4,932           10,000
+Quick Sort         0.047343     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.047343s
+   2º - Merge Sort: 0.070517s
+   3º - Selection Sort: 1.435663s
+   4º - Bubble Sort: 3.604043s
+
+
+#Rodada 8
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        6.703367     0.0153         499,500         499,329
+Selection Sort     2.993551     0.0153         499,500         552
+Merge Sort         0.178655     0.0281         4,932           10,000
+Quick Sort         0.082488     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Quick Sort: 0.082488s
+   2º - Merge Sort: 0.178655s
+   3º - Selection Sort: 2.993551s
+   4º - Bubble Sort: 6.703367s
+
+
+#Rodada 9
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        4.996463     0.0153         499,500         499,329
+Selection Sort     1.974653     0.0153         499,500         552
+Merge Sort         0.102416     0.0281         4,932           10,000
+Quick Sort         0.115757     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Merge Sort: 0.102416s
+   2º - Quick Sort: 0.115757s
+   3º - Selection Sort: 1.974653s
+   4º - Bubble Sort: 4.996463s
+
+
+#Rodada 10
+Algoritmo          Tempo (s)    Memória (MB)   Comparações     Trocas
+----------------------------------------------------------------------
+Bubble Sort        4.551397     0.0153         499,500         499,329
+Selection Sort     2.014568     0.0153         499,500         552
+Merge Sort         0.103593     0.0281         4,932           10,000
+Quick Sort         0.160413     0.0154         8,466           4,047
+----------------------------------------------------------------------
+
+RANKING POR VELOCIDADE:
+   1º - Merge Sort: 0.103593s
+   2º - Quick Sort: 0.160413s
+   3º - Selection Sort: 2.014568s
+   4º - Bubble Sort: 4.551397s
+
