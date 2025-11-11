@@ -10,13 +10,13 @@ from algoritmos import sorts
 
 
 
-# ==================== CARREGAR DADOS ====================
+#CARREGAR DADOS
 
 print("="*70)
 print("ANÁLISE DE ALGORITMOS DE ORDENAÇÃO".center(70))
 print("="*70)
 
-# Caminho do CSV (AJUSTE AQUI SE NECESSÁRIO)
+# Caminho do CSV
 CSV_PATH = "projeto_ordenacao\data\Jogadores.csv"
 
 print(f"\nCarregando: {CSV_PATH}")
@@ -27,7 +27,7 @@ print(f"{len(pontos)} jogadores carregados")
 print(f"   Menor: {min(pontos)} | Maior: {max(pontos)} | Média: {sum(pontos)/len(pontos):.0f}")
 
 
-# ==================== EXECUTAR ALGORITMOS ====================
+# EXECUTA ALGORITMOS
 
 print("\n" + "="*70)
 print("EXECUTANDO ANÁLISE".center(70))
@@ -68,7 +68,7 @@ for nome, funcao in algoritmos.items():
     print(f"Concluído em {resultados[nome]['tempo']:.6f}s")
 
 
-# ==================== MOSTRAR RESULTADOS ====================
+#MOSTRA RESULTADOS 
 
 print("\n" + "="*70)
 print("RESULTADOS".center(70))
@@ -84,7 +84,7 @@ for nome, dados in resultados.items():
 print("-"*70)
 
 
-# ==================== RANKING ====================
+#RANKING
 
 print("\nRANKING POR VELOCIDADE:")
 ranking = sorted(resultados.items(), key=lambda x: x[1]['tempo'])

@@ -1,4 +1,4 @@
-# ==================== ALGORITMOS ====================
+#  ALGORITMOS
 
 def bubble_sort(arr):
     arr = arr[:]
